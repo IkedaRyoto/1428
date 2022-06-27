@@ -6,7 +6,7 @@ public class Purchaser {
 	public static void main(String[] args) {
 		int money = 0;
 		int button = 0;
-		/*確認用*/
+		/*確認用、お金とボタンの表示をする*/
 		money = Input();
 		button = InputButton();
 		System.out.println(money);
